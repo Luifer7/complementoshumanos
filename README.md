@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+LINK WEB:
+https://dapper-daffodil-44417c.netlify.app/
